@@ -1,0 +1,182 @@
+\begin{thebibliography}{30}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+\providecommand{\href}[2]{\url{#2}}
+\providecommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
+
+\bibitem[Casimir(1948)]{Casimir_1948}
+Casimir~H~B~G.
+\newblock On the attraction between two perfectly conducting plates.
+\newblock \textit{Proc. Kon. Ned. Akad. Wet}, 1948, 51:\penalty0 793-795.
+
+\bibitem[Lifshitz(1956)]{Lifshitz_1956}
+Lifshitz~E.
+\newblock The theory of molecular attractive forces between solids.
+\newblock \textit{Sov. Phys. JETP}, 1956, 2:\penalty0 73-83.
+
+\bibitem[Derjaguin et~al.(1956)Derjaguin, Abrikosova, and
+  Lifshitz]{Derjaguin_1956}
+Derjaguin~B~V, Abrikosova~I~I, Lifshitz~E~M.
+\newblock Direct measurement of molecular attraction between solids separated
+  by a narrow gap.
+\newblock \textit{Q. Rev. Chem. Soc.}, 1956, 10:\penalty0 295-329.
+
+\bibitem[Blo(1977)]{Blocki_1977}
+Proximity forces.
+\newblock \textit{Annals of Physics}, 1977, 105\penalty0 (2):\penalty0 427-462.
+
+\bibitem[Gies et~al.(2003)Gies, Langfeld, and Moyaerts]{Gies_2003}
+Gies~H, Langfeld~K, Moyaerts~L.
+\newblock Casimir effect on the worldline.
+\newblock \textit{Journal of High Energy Physics}, 2003, 2003\penalty0
+  (06):\penalty0 018-018.
+
+\bibitem[Gies et~al.(2006)Gies and Klingmüller]{Gies_2006}
+Gies~H, Klingmüller~K.
+\newblock Quantum energies with worldline numerics.
+\newblock \textit{Journal of Physics A: Mathematical and General}, 2006,
+  39\penalty0 (21):\penalty0 6415-6421.
+
+\bibitem[Jiang et~al.(2019)Jiang and Wilczek]{Qing-DongJiang_2019}
+Jiang~Q~D, Wilczek~F.
+\newblock Chiral casimir forces: Repulsive, enhanced, tunable.
+\newblock \textit{Phys. Rev. B}, 2019, 99:\penalty0 125403.
+
+\bibitem[Vandendriessche et~al.(2013)Vandendriessche, Cleuvenbergen, Willot,
+  Hennrich, and Verbiest]{Vandendriessche_2013}
+Vandendriessche~S, Cleuvenbergen~S~V, Willot~P, et~al.
+\newblock Giant faraday rotation in mesogenic organic molecules.
+\newblock \textit{Chemistry of Materials}, 2013, 25\penalty0 (7):\penalty0
+  1139-1143.
+
+\bibitem[Crassee et~al.(2011)Crassee, Levallois, Walter, Ostler, Bostwick,
+  Rotenberg, Seyller, Dirk, and Kuzmenko]{Crassee_2011}
+Crassee~I, Levallois~J, Walter~A~L, et~al.
+\newblock Giant faraday rotation in single- and multilayer graphene.
+\newblock \textit{Nature Physics}, 2011, 7\penalty0 (1):\penalty0 48-51.
+
+\bibitem[Kuwata-Gonokami et~al.(2005)Kuwata-Gonokami, Saito, Ino, Kauranen,
+  Jefimovs, Vallius, Turunen, and Svirko]{Makoto_2005}
+Kuwata-Gonokami~M, Saito~N, Ino~Y, et~al.
+\newblock Giant optical activity in quasi-two-dimensional planar
+  nanostructures.
+\newblock \textit{Phys. Rev. Lett.}, 2005, 95:\penalty0 227401.
+
+\bibitem[Sparnaay(1958)]{Sparnaay_1958}
+Sparnaay~M~J.
+\newblock Measurements of attractive forces between flat plates.
+\newblock \textit{Physica}, 1958, 24\penalty0 (6):\penalty0 751-764.
+
+\bibitem[Lamoreaux(1997)]{Lamoreaux_1997}
+Lamoreaux~S~K.
+\newblock {Demonstration of the Casimir force in the 0.6 to 6 micrometers
+  range}.
+\newblock \textit{Phys. Rev. Lett.}, 1997, 78:\penalty0 5-8.
+
+\bibitem[Mohideen et~al.(1998)Mohideen and Roy]{Mohideen_1998}
+Mohideen~U, Roy~A.
+\newblock Precision measurement of the casimir force from 0.1 to 0.9 microns.
+\newblock \textit{Physical Review Letters}, 1998, 81\penalty0 (21):\penalty0
+  4549-4552.
+
+\bibitem[Munday et~al.(2009)Munday, Capasso, and Parsegian]{Capasso_2009}
+Munday~J~N, Capasso~F, Parsegian~V~A.
+\newblock Measured long-range repulsive casimir–lifshitz forces.
+\newblock \textit{Nature}, 2009, 457\penalty0 (7226):\penalty0 170-173.
+
+\bibitem[Antezza et~al.(2004)Antezza, Pitaevskii, and Stringari]{Antezza_2004}
+Antezza~M, Pitaevskii~L~P, Stringari~S.
+\newblock Effect of the casimir-polder force on the collective oscillations of
+  a trapped bose-einstein condensate.
+\newblock \textit{Phys. Rev. A}, 2004, 70:\penalty0 053619.
+
+\bibitem[Babb et~al.(2004)Babb, Klimchitskaya, and Mostepanenko]{Babb_2004}
+Babb~J~F, Klimchitskaya~G~L, Mostepanenko~V~M.
+\newblock Casimir-polder interaction between an atom and a cavity wall under
+  the influence of real conditions.
+\newblock \textit{Phys. Rev. A}, 2004, 70:\penalty0 042901.
+
+\bibitem[Lamoreaux et~al.(2007)Lamoreaux and Steve]{Lamoreaux_2007}
+Lamoreaux, Steve~K.
+\newblock Casimir forces: Still surprising after 60 years.
+\newblock \textit{Physics Today}, 2007, 60\penalty0 (2):\penalty0 40-45.
+
+\bibitem[Michael(1947)]{Krech_1994}
+Michael~K~a.
+\newblock The casimir effect in critical systems.
+\newblock World Scientific, 1947: 230.
+
+\bibitem[Buks et~al.(2001)Buks and Roukes]{Buks_2001}
+Buks~E, Roukes~M~L.
+\newblock Stiction, adhesion energy, and the casimir effect in micromechanical
+  systems.
+\newblock \textit{Phys. Rev. B}, 2001, 63:\penalty0 033402.
+
+\bibitem[Buks et~al.(2002)Buks and Roukes]{Buks_2002}
+Buks~E, Roukes~M~L.
+\newblock Casimir force changes sign.
+\newblock \textit{Nature}, 2002, 419\penalty0 (6903):\penalty0 119-120.
+
+\bibitem[Chumak et~al.(2004)Chumak, Milonni, and Berman]{Chumak_2004}
+Chumak~A~A, Milonni~P~W, Berman~G~P.
+\newblock Effects of electrostatic fields and casimir force on cantilever
+  vibrations.
+\newblock \textit{Phys. Rev. B}, 2004, 70:\penalty0 085407.
+
+\bibitem[Clerk-Maxwell(1874)]{Maxwell_1874}
+Clerk-Maxwell~J.
+\newblock O ver de continuiteit van den gas- en vloeistofiocstand academisch
+  proefschrift.
+\newblock \textit{Nature}, 1874, 10\penalty0 (259):\penalty0 477-480.
+
+\bibitem[Eisenschitz et~al.(1930)Eisenschitz and London]{Eisenschitz_1930}
+Eisenschitz~R, London~F.
+\newblock Über das verhältnis der van der waalsschen kräfte zu den
+  homöopolaren bindungskräften.
+\newblock \textit{Zeitschrift für Physik}, 1930, 60\penalty0 (7):\penalty0
+  491-527.
+
+\bibitem[London(1930)]{London_1930}
+London~F.
+\newblock Zur theorie und systematik der molekularkräfte.
+\newblock \textit{Zeitschrift für Physik}, 1930, 63\penalty0 (3):\penalty0
+  245-279.
+
+\bibitem[郭硕鸿(2008)]{GuoShuohong_2008}
+郭硕鸿.
+\newblock 电动力学.
+\newblock 高等教育出版社, 2008: 129-131.
+
+\bibitem[Milton(2001)]{Milton_2001}
+Milton~K~A.
+\newblock The casimir effect.
+\newblock World Scientific, 2001.
+
+\bibitem[Gies et~al.(2001)Gies and Langfeld]{Gies_2001}
+Gies~H, Langfeld~K.
+\newblock Quantum diffusion of magnetic fields in a numerical worldline
+  approach.
+\newblock \textit{Nuclear Physics B}, 2001, 613\penalty0 (1):\penalty0 353-365.
+
+\bibitem[Parsegian(2005)]{Lifshitz_1958}
+Parsegian~V~A.
+\newblock Van der waals forces: a handbook for biologists, chemists, engineers,
+  and physicists.
+\newblock Cambridge University Press, 2005: 283-291.
+
+\bibitem[de~Man et~al.(2009)de~Man, Heeck, Wijngaarden, and
+  Iannuzzi]{deMan_2009}
+de~Man~S, Heeck~K, Wijngaarden~R~J, et~al.
+\newblock Halving the casimir force with conductive oxides.
+\newblock \textit{Phys. Rev. Lett.}, 2009, 103:\penalty0 040402.
+
+\bibitem[Lisanti et~al.(2005)Lisanti, Iannuzzi, and Capasso]{Mariangela_2005}
+Lisanti~M, Iannuzzi~D, Capasso~F.
+\newblock Observation of the skin-depth effect on the casimir force between
+  metallic surfaces.
+\newblock \textit{Proceedings of the National Academy of Sciences}, 2005,
+  102\penalty0 (34):\penalty0 11989-11992.
+
+\end{thebibliography}

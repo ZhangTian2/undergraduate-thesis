@@ -1,0 +1,34 @@
+\documentclass[degree=bachelor]{ustcthesis}
+
+% 加载宏包、全部的配置
+\input{ustcsetup.tex}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{mdsymbol}
+\usepackage{pifont}
+\usepackage{multirow}
+\begin{document}
+\maketitle
+\copyrightpage
+
+\frontmatter
+
+\input{chapters/acknowledgements.tex}
+\tableofcontents
+\input{chapters/abstract.tex}
+\mainmatter
+\input{chapters/intro.tex}
+% \input{chapters/theory.tex}
+\input{chapters/experiments.tex}
+\input{chapters/analysis.tex}
+\input{chapters/summary.tex}
+
+\backmatter
+% \bibliographystyle{unsrt}
+\bibliographystyle{ustcthesis-bachelor}   % 本科生参考文献的格式
+\bibliography{bib/ustc}
+
+\appendix
+\input{chapters/complementary.tex}
+
+\end{document}

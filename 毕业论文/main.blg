@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: ustcthesis-bachelor.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: bib/ustc.bib
+Warning--empty author in Blocki_1977
+You've used 30 entries,
+            4091 wiz_defined-function locations,
+            1076 strings with 10791 characters,
+and the built_in function-call counts, 141980 in all, are:
+= -- 2449
+> -- 16662
+< -- 21036
++ -- 5745
+- -- 826
+* -- 960
+:= -- 19766
+add.period$ -- 89
+call.type$ -- 30
+change.case$ -- 59
+chr.to.int$ -- 5218
+cite$ -- 32
+duplicate$ -- 627
+empty$ -- 1542
+format.name$ -- 384
+if$ -- 36346
+int.to.chr$ -- 1
+int.to.str$ -- 31
+missing$ -- 0
+newline$ -- 158
+num.names$ -- 87
+pop$ -- 7207
+preamble$ -- 1
+purify$ -- 30
+quote$ -- 0
+skip$ -- 14470
+stack$ -- 0
+substring$ -- 6713
+swap$ -- 90
+text.length$ -- 255
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 366
+warning$ -- 1
+while$ -- 363
+width$ -- 0
+write$ -- 436
+(There was 1 warning)
